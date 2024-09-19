@@ -4,29 +4,208 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41fab839-3173-4d77-8136-74cd5dcc4fa8" name="Changes" comment="" />
+    <list default="true" id="64ed6ecb-70ad-49c1-91bb-9fca90a2a11c" name="Changes" comment="3d fps game">
+      <change afterPath="$PROJECT_DIR$/FpsGameOrnek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_deneme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_deneme01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bomb.glb" beforeDir="false" afterPath="$PROJECT_DIR$/assets/bomb.glb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/colliders.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/colliders.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guardian.blend" beforeDir="false" afterPath="$PROJECT_DIR$/assets/guardian.blend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guardian.blend1" beforeDir="false" afterPath="$PROJECT_DIR$/assets/guardian.blend1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/guardian.glb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main_map.blend" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main_map.blend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main_map.blend1" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main_map.blend1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main_map123.blend" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main_map123.blend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main_map123.blend1" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main_map123.blend1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bomba.py" beforeDir="false" afterPath="$PROJECT_DIR$/bomba.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mermi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mermi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2mIIHAaG06EnkpbCNbZdvDghPLM" />
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;selman-py&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/selman-py/FPS_GAME.git&quot;,
+    &quot;accountId&quot;: &quot;8c086548-0f98-45ee-a711-7dd7a5e0f0f0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2k11kvjG8w0ZdqAivD0geirA7NE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.FpsGameOrnek.executor": "Run",
+    "Python.HP_bar.executor": "Run",
+    "Python.Smoke_effect.executor": "Run",
+    "Python.ball.executor": "Run",
+    "Python.bomba.executor": "Run",
+    "Python.collect.executor": "Run",
+    "Python.collider_setup.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main1.executor": "Run",
+    "Python.main_denem.executor": "Run",
+    "Python.main_deneme.executor": "Run",
+    "Python.main_deneme01.executor": "Run",
+    "Python.mermi.executor": "Run",
+    "Python.mesh.executor": "Run",
+    "Python.particle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Python_Web",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RunManager" selected="Python.main_deneme">
+    <configuration name="bomba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DERS8" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\FPS_GAME\FPS_GAME\bomba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="collect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DERS8" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\FPS_GAME\FPS_GAME\collect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DERS8" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_deneme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DERS8" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_deneme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mermi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DERS8" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mermi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_deneme" />
+        <item itemvalue="Python.bomba" />
+        <item itemvalue="Python.main1" />
+        <item itemvalue="Python.collect" />
+        <item itemvalue="Python.mermi" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -37,12 +216,86 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="41fab839-3173-4d77-8136-74cd5dcc4fa8" name="Changes" comment="" />
-      <created>1726757573277</created>
+      <changelist id="64ed6ecb-70ad-49c1-91bb-9fca90a2a11c" name="Changes" comment="" />
+      <created>1722436415593</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1726757573277</updated>
+      <updated>1722436415593</updated>
     </task>
+    <task id="LOCAL-00001" summary="3d fps game">
+      <option name="closed" value="true" />
+      <created>1722525983114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722525983114</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3d fps game">
+      <option name="closed" value="true" />
+      <created>1722626444573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722626444573</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3d fps game">
+      <option name="closed" value="true" />
+      <created>1722627769707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722627769707</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3d fps game">
+      <option name="closed" value="true" />
+      <created>1722842742245</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722842742245</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3d fps game">
+      <option name="closed" value="true" />
+      <created>1722842758148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722842758148</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3d fps game">
+      <option name="closed" value="true" />
+      <created>1722842939732</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722842939732</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3d fps game" />
+    <option name="LAST_COMMIT_MESSAGE" value="3d fps game" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HP_bar.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
